@@ -32,3 +32,4 @@ C:\Users\Morheno\Documents\SENAI\Backend\C#\LH Pets\obj\Release\net8.0\refint\LH
 C:\Users\Morheno\Documents\SENAI\Backend\C#\LH Pets\obj\Release\net8.0\LH Pets.pdb
 C:\Users\Morheno\Documents\SENAI\Backend\C#\LH Pets\obj\Release\net8.0\LH Pets.genruntimeconfig.cache
 C:\Users\Morheno\Documents\SENAI\Backend\C#\LH Pets\obj\Release\net8.0\ref\LH Pets.dll
+C:\Users\Morheno\Documents\SENAI\Backend\C#\LH Pets\obj\Release\net8.0\LH Pets.sourcelink.json
